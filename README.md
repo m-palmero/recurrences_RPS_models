@@ -1,2 +1,2 @@
-# recurrences_RPS_models
+# Recurrence Analysis in Rock-Paper-Scissor systems
 Repository for the codes related to the research work titled: Investigating Mobility in Spatial Biodiversity Models through Recurrence Quantification Analysis
