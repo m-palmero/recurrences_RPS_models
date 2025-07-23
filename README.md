@@ -6,7 +6,6 @@ This directory focuses specifically on the **RQA analysis** of pre-existing data
 
 ## Table of Contents
 
-- [Authors](#authors)
 - [Repository Structure](#repository-structure)
 - [Code Description](#code-description)
 - [Key Parameters](#key-parameters)
@@ -14,7 +13,7 @@ This directory focuses specifically on the **RQA analysis** of pre-existing data
 - [Compilation & Execution](#compilation--execution)
 - [Usage](#usage)
 - [Output Description](#output-description)
-- [Acknowledgements](#acknowledgements)
+- [Authors](#authors)
 
 ---
 
